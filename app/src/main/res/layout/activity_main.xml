@@ -15,6 +15,11 @@
         android:text="First Layout"
         android:textSize="22sp"/>
 
+    <EditText
+        android:id="@+id/et_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
     <Button
         android:id="@+id/btn_second_activity"
         android:layout_width="match_parent"
